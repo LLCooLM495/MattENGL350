@@ -16,9 +16,9 @@ You can get a closer look at what exactly all these options are in this [higher 
   
 ## Conclusion
   
-  Though this likely an expected conclusion, I'd have to say that this site is, as mentioned, not much more than a novelty for a majority of people.  It is fun to click around and watch the charts reconfigure themselves, but this action seems to be more enjoyable than actually reading about any of the people you click on, especially since you only get a very brief summary of each person.  For example, here is the visualization of one John Calvert:
+  Though it is fun to click around and watch the charts reconfigure themselves, this action seems to be more enjoyable than actually reading about any of the people you click on, especially since you only get a very brief summary of each person.  For example, here is the visualization of one John Calvert:
   
 ![Calvert](https://llcoolm495.github.io/MattENGL350/images/calvert.png)
 
-All that is said by this site about Calvert himself is that he was a "courtier and colonist in America"; though, there are further options at the bottom of the page to explore the various subgroups that the selected person belongs to.  
+All that is said by this site about Calvert himself is that he was a "courtier and colonist in America"; though, there are further options at the bottom of the page to explore the various subgroups that the selected person belongs to.  I wish I were able to appreciate it as these people surely would, but I am most decidedly a bit of a fish-out-of-water on this site.
  
