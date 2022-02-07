@@ -8,7 +8,7 @@
 
 ![Visualize](https://llcoolm495.github.io/MattENGL350/images/francis.gif)
  
-![James I and VI](https://llcoolm495.github.io/MattENGL350/images/francis.png)
+You can get a closer look at what exactly all these options are in this [higher resolution screenshot](https://llcoolm495.github.io/MattENGL350/images/francis.png),
    
    
 
