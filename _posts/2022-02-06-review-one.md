@@ -10,7 +10,7 @@
  
 You can get a closer look at what exactly all these options are in this [higher resolution screenshot](https://llcoolm495.github.io/MattENGL350/images/francis.png), showing the visualization of King James I and VI, or so it says.  I'll be the first to admit that I'm not the most well versed in English politics, let alone English politics dating back as far as this (mid-15th Century to mid-18th Century), but I can definitely tell that the creators and contributors of the site are.  [Here](https://llcoolm495.github.io/MattENGL350/images/johnMason.png) is an example of a page that you'd get when clicking on one of the smaller circles from the King James I/ VI page, focused on a guy named John Mason, who also turns out to be the founder of New Hampshire.  Clicking on John Mason's circle brings up even more people who are connected to King James I/ VI, and each circle also gives the option to change the visualization focus to whoever you have selected. 
    
-##Digging Deeper
+## Digging Deeper
 
   Once I had finished exploring the main page without any guidance, I finally opened up the [About](http://sixdegreesoffrancisbacon.com/about) page so I could get a better understanding of what exactly it was that I was looking at.  Here, in a rather concise (two sentence!) description, it is revealed that the point behind this project is to map out an early modern social network, via contributions from students around the world.  
 
