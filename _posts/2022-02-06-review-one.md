@@ -4,7 +4,8 @@
   
 ## An Outsider's Perspective
   
-  To try to get a feel for what the project was about before diving into the "About" page, I poked around on the main page of the site.  Here, I was greeted with a rather intimidating sort of graph, which appeared moreso as a city planner's worst nightmare on first inspection.  In this sort of preliminary stage of my exploration of the project, I was quite confused as to what exactly it was that I was looking at, feverishly attempting to comprehend the meaning of the wannabe subway network that was presented at my behest.  Clicking on the various dots of the main page of the chart 
+  To try to get a feel for what the project was about before diving into the "About" page, I poked around on the main page of the site.  Here, I was greeted with a rather intimidating sort of graph, which appeared moreso as a city planner's worst nightmare on first inspection.  In this sort of preliminary stage of my exploration of the project, I was quite confused as to what exactly it was that I was looking at, feverishly attempting to comprehend the meaning of the wannabe subway network that was presented at my behest.  Clicking on the various dots of the main page of the chart leads to a massive expansion of the routes presented on the page, as is shown in this GIF I captured of my first 20 or so seconds on the site:
+
 ![Visualize](https://llcoolm495.github.io/MattENGL350/images/francis.gif)
  
 ![James I and VI](https://llcoolm495.github.io/MattENGL350/images/francis.png)
