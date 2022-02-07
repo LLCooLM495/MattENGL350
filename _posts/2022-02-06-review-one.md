@@ -1,4 +1,4 @@
-# **Review One**
+# **Review Blog One: Six Degrees of ~~Kevin~~ Francis Bacon**
   
   This blog will be focusing on the [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) project.  I chose this project since I had a sort of limited familiarity with what can be considered the more contemporary form of this idea, i.e. the Six Degrees of Kevin Bacon.  Essentially, it is a game where you try to link various actors (or even people outside of the acting world) to Kevin Bacon, either by them having worked with him directly on a project, or even working with someone who has worked with Kevin Bacon in the past.  There are varying degrees as to how closely related someone is to Kevin Bacon, and it is a good bit of fun for anyone who's up to speed on their Kevin Bacon trivia.  However, I digress, as this is all about the Six Degrees of *Francis* Bacon, the 16th Century English philosopher.
   
