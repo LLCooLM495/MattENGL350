@@ -1,6 +1,6 @@
 # **Review Blog One: Six Degrees of ~~Kevin~~ Francis Bacon**
   
-  This blog will be focusing on the [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) project.  I chose this project since I had a sort of limited familiarity with what can be considered the more contemporary form of this idea, i.e. the Six Degrees of Kevin Bacon.  Essentially, it is a game where you try to link various actors (or even people outside of the acting world) to Kevin Bacon, either by them having worked with him directly on a project, or even working with someone who has worked with Kevin Bacon in the past.  There are varying degrees as to how closely related someone is to Kevin Bacon, and it is a good bit of fun for anyone who's up to speed on their Kevin Bacon trivia.  However, I digress, as this is all about the Six Degrees of *Francis* Bacon, the 16th Century English philosopher.
+  This blog will be focusing on the [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) project, directed by Christopher Warren.  I chose this project since I had a sort of limited familiarity with what can be considered the more contemporary form of this idea, i.e. the Six Degrees of Kevin Bacon.  Essentially, it is a game where you try to link various actors (or even people outside of the acting world) to Kevin Bacon, either by them having worked with him directly on a project, or even working with someone who has worked with Kevin Bacon in the past.  There are varying degrees as to how closely related someone is to Kevin Bacon, and it is a good bit of fun for anyone who's up to speed on their Kevin Bacon trivia.  However, I digress, as this is all about the Six Degrees of *Francis* Bacon, the 16th Century English philosopher.
   
 ## An Outsider's Perspective
   
@@ -20,5 +20,5 @@ You can get a closer look at what exactly all these options are in this [higher 
   
 ![Calvert](https://llcoolm495.github.io/MattENGL350/images/calvert.png)
 
-All that is said by this site about Calvert himself is that he was a "courtier and colonist in America"; though, there are further options at the bottom of the page to explore the various subgroups that the selected person belongs to.  I wish I were able to appreciate it as these people surely would, but I am most decidedly a bit of a fish-out-of-water on this site.
+All that is said by this site about Calvert himself is that he was a "courtier and colonist in America"; though, there are further options at the bottom of the page to explore the various subgroups that the selected person belongs to.  I wish I were able to appreciate it as these people surely would, and although I am most decidedly a bit of a fish-out-of-water on this site, I cannot help but be in awe of the effort it has taken to create a site as expansive as this on such a niche subject.
  
