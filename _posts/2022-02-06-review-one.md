@@ -1,23 +1,14 @@
 # **Review One**
   
-## General Introduction
+  This blog will be focusing on the [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) project.  I chose this project since I had a sort of limited familiarity with what can be considered the more contemporary form of this idea, i.e. the Six Degrees of Kevin Bacon.  Essentially, it is a game where you try to link various actors (or even people outside of the acting world) to Kevin Bacon, either by them having worked with him directly on a project, or even working with someone who has worked with Kevin Bacon in the past.  There are varying degrees as to how closely related someone is to Kevin Bacon, and it is a good bit of fun for anyone who's up to speed on their Kavin Bacon trivia.  However, I digress, as this is all about the Six Degrees of *Francis* Bacon, the 16th Century English philosopher.
   
-  Hello,
-
-## Career Interests
+## An Outsider's Perspective
   
-  If 
-  
-## Academic Ventures
-  
-  I've 
-  
-## My Hobbies
-  
-  I  [main rig](https://pcpartpicker.com/user/LLCooLM495/saved/F6hHxr) and my auxiliary [storage server](https://pcpartpicker.com/user/LLCooLM495/saved/7jf34D) for anyone who may be interested in that sort of thing.  Here's a picture of my dorm setup at the moment as well:
-![setup](https://llcoolm495.github.io/MattENGL350/images/francis.png)
-   
-  As far as my interest in cars, I am a member of the CNU Car Club, and I drive a 1992 Pontiac Firebird with a 3.1L V6 backed by a 700R4.  I have plans to put a more powerful drivetrain in after college, but the V6 has been phenomenally reliable for me the last 5 years, so it's staying until I can feasibly go about that kind of swap.  For now, I just keep up with maintenance, and do some small upgrades here and there, generally when I come across better equipped f-bodies which have been relegated to the local Pick-a-Part that have parts I could use.  
-![Melissa](https://llcoolm495.github.io/MattENGL350/images/francis.gif)
+  To try to get a feel for what the project was about before diving into the "About" page, I poked around on the main page of the site.  Here, I was greeted with a rather intimidating sort of graph, which appeared moreso as a city planner's worst nightmare on first inspection.  In this sort of preliminary stage of my exploration of the project, I was quite confused as to what exactly it was that I was looking at, feverishly attempting to comprehend the meaning of the wannabe subway network that was presented at my behest.  Clicking on the various dots of the main page of the chart 
+![Visualize](https://llcoolm495.github.io/MattENGL350/images/francis.gif)
  
+![James I and VI](https://llcoolm495.github.io/MattENGL350/images/francis.png)
+   
+   
+
  
