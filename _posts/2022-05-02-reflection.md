@@ -8,11 +8,14 @@
   
 ## The Blogs
   
-  I won't go off on too much of a tangent and bore you, but I could (and frequently do, much to the chagrin of my friends on Discord) talk about my interest in cars and computers for hours.  I had initially planned to talk at nauseum about my current PC builds, but instead I'll drop links to my [main rig](https://pcpartpicker.com/user/LLCooLM495/saved/F6hHxr) and my auxiliary [storage server](https://pcpartpicker.com/user/LLCooLM495/saved/7jf34D) for anyone who may be interested in that sort of thing.  Here's a picture of my dorm setup at the moment as well:
-![setup](https://llcoolm495.github.io/MattENGL350/images/setup.jpg)
+  As hinted at in the previous section, my favorite part of the course was the different blog assignments.  For me, Twitter has never really worked well with how I write, as I tend to be a tad long winded, and the 140 character limit proves to be quite challenging.  For a bit of a visual aid, here's a screenshot of my Twitter account as it sits now at the end of the semester: ![Twitter](https://llcoolm495.github.io/MattENGL350/images/twitter.png) 
+  With the blog posts, I was able to write in a way that just felt more, for lack of a better word, *right*.  This is a part of the reason as to why I missed a large number of the Twitter post deadlines, though to be honest, the biggest reason for my lack of Twitter posts is due to my continuing time management issues.  In this regard, the blogs, although they involve much more writing, always felt more doable for me, and even fun.  It was very enjoyable to toy around with GitHub alongside writing assignments, and the blogs were quite refreshing to work on after a few years of being more or less relegated to the standard MLA sort of essay writing.  
+
    
  ## The Grant Project
  
   
- 
+   I won't go off on too much of a tangent and bore you, but I could (and frequently do, much to the chagrin of my friends on Discord) talk about my interest in cars and computers for hours.  I had initially planned to talk at nauseum about my current PC builds, but instead I'll drop links to my [main rig](https://pcpartpicker.com/user/LLCooLM495/saved/F6hHxr) and my auxiliary [storage server](https://pcpartpicker.com/user/LLCooLM495/saved/7jf34D) for anyone who may be interested in that sort of thing.  Here's a picture of my dorm setup at the moment as well:
+![Twitter](https://llcoolm495.github.io/MattENGL350/images/twitter.png)
+
   Additionally, as my membership of both Phi Mu Alpha and drumline may insinuate, I am very much into music.  I mainly play the marching tenor drums, but I also do a bit of guitar and bass guitar for fun, though I wouldn't exactly call myself proficient at anything but drums.  I enjoy listening to all sorts of music, usually while driving or studying, and if anyone cares, I'll drop the link to my [Last.fm profile](https://www.last.fm/user/Tomokohane), though it doesn't track any of the music I listen to on physical media, and I didn't make the profile until last year, so it's a bit inaccurate.  
